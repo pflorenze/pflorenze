@@ -5,3 +5,6 @@ MVVM architecture.
 Dependency injection.
 Technologies like LiveData, Retrofit.
 
+My posts
+https://pflorenze.medium.com/
+
