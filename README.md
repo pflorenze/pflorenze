@@ -1,9 +1,6 @@
 ### Hi there 👋
-I am a Jr Android Developer. 100% focus on mobile technologies. 
+I am a Jr Developer. 100% focus on mobile technologies and Data Analysis . 
 These are my personal projects where I apply:
-MVVM architecture.
-Dependency injection.
-Technologies like LiveData, Retrofit.
 
 My posts
 https://pflorenze.medium.com/
